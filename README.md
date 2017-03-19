@@ -1,5 +1,6 @@
 # Latent-Dirichlet-Allocation
 LDA implement with Gibbs Sampling
+
 LDA implement with Variational Inference will be added in the future
 ## Dependencies
 - Python 2.7(Better on Linux)
